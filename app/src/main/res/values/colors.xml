@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00aa8d</color>
+    <color name="colorPrimaryDark">#00bf9a</color>
+    <color name="colorAccent">#008975</color>
+    <color name="colorBadge">#B2DFDB</color>
+   <!--<color name="colorBadge">#3458727e</color>-->
+    <color name="red">#a60000</color>
+</resources>

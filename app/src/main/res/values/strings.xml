@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IoT Parking</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_booking">Manage Booking</string>
+    <string name="title_activity_admin_home">AdminHomeActivity</string>
+    <string name="title_spaces">Spaces</string>
+    <string name="title_parks">Parks</string>
+    <string name="title_balances">Balances</string>
+    <string name="car_name">Car Name</string>
+    <string name="icon_hint">Icon</string>
+    <string name="color_hint">Color</string>
+    <string name="text_hint">Text</string>
+    <string name="cash_type">Cash</string>
+</resources>
